@@ -1,0 +1,2 @@
+﻿CREATE DATABASE sgbd;
+USE sgbd;
